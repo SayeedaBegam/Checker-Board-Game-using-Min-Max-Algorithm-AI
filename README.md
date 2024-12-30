@@ -59,7 +59,7 @@ Check your Python version:
 
 
 ## Git clone
-git clone https://github.com/your-username/Checker_AI_MinMax.git
+git clone https://github.com/SayeedaBegam/Checker-Board-Game-using-Min-Max-Algorithm-AI.git
 cd Checker_AI_MinMax
 ## Command to run
 python pygame_ui.py
